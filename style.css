@@ -1,20 +1,12 @@
 body{
-	margin: 0;
-	padding: 0;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	height: 100vh;
-	background: #112c38;
 
-}
-ul
-{
-	margin: 0;
-	padding: 0;
-	display: flex;
+	background-color: #112c38;
+	}
+ul{
 
-}
+	display: flex;
+	float: right;
+	}
 ul li
 {
 	list-style: none;
